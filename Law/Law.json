@@ -1,0 +1,89 @@
+{
+    "lawList": [
+        {
+            "class": "主要法",
+            "fileName": "刑事訴訟法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/刑事訴訟法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "刑法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/刑法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "憲法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/憲法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "民事訴訟法",
+            "fileLink": "https://raw.githubusercontent.com/timtim12754/TaiwanLawApp/main/Law/主要法/民事訴訟法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "民法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/民法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "行政程序法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/行政程序法.json"
+        },
+        {
+            "class": "主要法",
+            "fileName": "行政訴訟法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/主要法/行政訴訟法.json"
+        },
+        {
+            "class": "其他",
+            "fileName": "公平交易法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/其他/公平交易法.json"
+        },
+        {
+            "class": "其他",
+            "fileName": "勞動基準法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/其他/勞動基準法.json"
+        },
+        {
+            "class": "其他",
+            "fileName": "消費者保護法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/其他/消費者保護法.json"
+        },
+        {
+            "class": "商事法",
+            "fileName": "保險法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/商事法/保險法.json"
+        },
+        {
+            "class": "商事法",
+            "fileName": "公司法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/商事法/公司法.json"
+        },
+        {
+            "class": "商事法",
+            "fileName": "破產法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/商事法/破產法.json"
+        },
+        {
+            "class": "商事法",
+            "fileName": "票據法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/商事法/票據法.json"
+        },
+        {
+            "class": "商事法",
+            "fileName": "證券交易法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/商事法/證券交易法.json"
+        },
+        {
+            "class": "著作權法",
+            "fileName": "商標法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/著作權法/商標法.json"
+        },
+        {
+            "class": "著作權法",
+            "fileName": "專利法",
+            "fileLink": "https://raw.githubusercontent.com/timtimtim12754/TaiwanLawApp/main/Law/著作權法/專利法.json"
+        }
+    ]
+}
