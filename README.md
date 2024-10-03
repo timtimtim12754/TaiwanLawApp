@@ -1,4 +1,6 @@
-# 台灣法律字典
+# 查一查法律
+
+## 關於
 
 這是一個免費的法律字典
 
@@ -10,4 +12,12 @@
 
 ## 下載方法
 
-前往[台灣法律app下載頁面](https://timtimtim12754.github.io/apps/lawapp)下載(github.io)。
+前往[查一查法律下載頁面](https://timtimtim12754.github.io/apps/lawapp)下載(github.io)。
+
+## 關於查一查法律app
+
+軟體名稱：查一查法律
+最新版本：1.0
+應用程式安裝檔名：com.pront.lawapp
+支援平台：android
+支援語言：繁體中文
