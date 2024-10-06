@@ -4,7 +4,7 @@
 
 這是一個免費的法律字典
 
-法律資料來自[台灣全國法律資料庫](https://law.moj.gov.tw/Index.aspx)
+法律資料來自[全國法規資料庫](https://law.moj.gov.tw/Index.aspx)
 
 這是給安卓手機的app
 
@@ -16,8 +16,8 @@
 
 ## 關於查一查法律app
 
-軟體名稱：查一查法律
-最新版本：1.0
-應用程式安裝檔名：com.pront.lawapp
-支援平台：android
-支援語言：繁體中文
+軟體名稱：查一查法律  
+最新版本：1.0  
+應用程式安裝檔名：com.pront.lawapp  
+支援平台：android  
+支援語言：繁體中文  
